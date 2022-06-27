@@ -1,0 +1,269 @@
+
+
+*{
+    font-family: 'Public Sans';
+    color: #595959;
+    
+}
+.button-verification{
+    width: 250px;
+height: 40px;
+margin-left: 15%;
+margin-top: 5%;}
+.text-align{
+    margin-left: 30%;
+}
+.text{
+    margin-top: 3%;
+}
+.top{
+    margin-top: 10%;
+}
+.name{
+    margin-left: 33%;
+}
+.text1{
+    margin-left: 15% ;
+}
+.form-auth{
+    box-sizing: border-box;
+
+    width: 400px;
+    height: 450px;
+    left: 46px;
+    margin-top: 2%;
+    background: #FFFFFF;
+    border: 1px solid rgba(30, 70, 160, 0.7);
+    /* Shadows/ Card 1 */
+    
+    border-radius: 10px;
+}
+.form-verification{
+    
+box-sizing: border-box;
+
+width: 400px;
+height: 450px;
+left: 46px;
+margin-top: 2%;
+background: #FFFFFF;
+border: 1px solid rgba(30, 70, 160, 0.7);
+/* Shadows/ Card 1 */
+
+box-shadow: 24px 18px 69px rgba(0, 0, 0, 0.07);
+border-radius: 10px;
+}
+.form-authentication{
+    box-sizing: border-box;
+}
+/* the login form */
+/* .signup-page{
+    position: absolute;
+    width: 381px;
+    height: 64px;
+    left: 13%;
+    top: 100px;}
+.loginsignup-menu{
+    width: 381px;
+    height: 64px;
+    
+    top: 100px;
+} */
+.form{position: absolute;
+    width: 381px;
+    height: 64px;
+    left: 120px;
+    top: 100px;
+    
+}
+.carousel-logo{
+    height: auto;
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 50%;
+    color: #FFFFFF;
+}
+.table-side{
+    margin-left: 4%;
+    width: 100%;
+}
+.box-auth{
+    box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 417px;
+left: 324px;
+top: 254px;
+
+background: #FFFFFF;
+border: 1px solid rgba(37, 73, 155, 0.7);
+/* Shadows/ Card 1 */
+
+box-shadow: 24px 18px 69px rgba(0, 0, 0, 0.07);
+border-radius: 10px;
+}
+.facebook{
+    /* facebook (2) 1 */
+
+
+position: absolute;
+width: 104px;
+height: 102px;
+left: 502px;
+top: 344px;
+}
+.logo-slide{
+    margin-top: -240px;
+    margin-left: 70%;
+}
+.form-authentication1{
+    position: absolute;
+width: 72px;
+height: 12px;
+left: 673px;
+top: 384px;
+}
+.white
+{
+    color: #FFFFFF}
+.item {
+    background: #333;
+    text-align: center;
+    height: 300px;
+}
+h2 {
+    margin: 0;
+    color: #888;
+    padding-top: 80px;
+    font-size: 30px;
+}
+.side-image{
+    position: absolute;
+width: 410px;
+float: right;
+height: 374px;
+left: 590px;
+top: -150px;
+}
+.image{
+    width: 160% ;
+    height: 190%;
+}
+
+.image-form{
+    height: 73%;
+    float: right;
+    left: 80;
+}
+.sign-up-link{
+left: 16% ;
+}
+.slider{
+    position: absolute;
+    left: 70%;
+    bottom: 150;
+    color: #E6F7FF;
+}
+.center-logo{
+    left: 75%;
+    bottom: 153;
+    position: absolute;
+} 
+
+
+
+/* payment box */
+.payment-box{
+    position: absolute;
+width: 45%;
+height: 15%;
+left: 30%;
+top: 10%;
+
+background: #FFFFFF;
+/* Shadows/ Card 1 */
+
+box-shadow: 24px 18px 69px rgba(0, 0, 0, 0.07);
+border-radius: 10px;
+}
+.pay-ment-text{
+    top: 107px;
+    left: 289px;
+}
+.payment-text{
+    position: absolute;
+width: 100px;
+height: 32px;
+left: 289px;
+top: 109px;
+
+/* Semibold / 24 px | 32 px */
+
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+/* Grey / grey-8 */
+
+color: #595959;
+}
+.frquently-box{
+    background-color: #FFFFFF;
+    box-shadow: none;
+    border-radius: 0%;
+    width: 30%;
+}
+.white-box{
+    background-color: #FFFFFF;
+
+}
+.payment-class{
+    position: absolute;
+    width: 60%;
+   top: 20%;
+   left: 10%;
+}
+.button-payment{
+    position: absolute;
+    left: 24%;
+    top: 200%;
+}
+.file{
+    /* Default field state */
+
+
+box-sizing: border-box;
+
+background: #FFFFFF;
+border: 1px solid #A0AFBF;
+border-radius: 4px;
+}
+.col-frequently{
+    background-color:  #F5F5F5;;
+}
+.border-card{
+    border: 0px;
+    background-color: #FFFFFF;
+    width: 343px;
+}
+.question-column{
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+body,
+button {
+  font-family: "Inter", sans-serif;
+}
+#dash-card #card-body{
+  padding:0  40px;
+}
+#dash-card #card-body .card-body{
+  border-bottom: 1px solid #E8E8E8;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  height: 20px;
+  width: fit-content;
+  
+}
+#dash-card #card-body .card-body i, #dash-card #card-body .card-body p {
+ position: relative;
+ padding-top: 5px;
+ padding-bottom:0px;
+ font-family: 'Public Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+
+/* Grey / grey-8 */
+
+color: #595959;
+}
+#dash-card #card-body h1{
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 46px;
+  /* identical to box height, or 121% */
+  
+  
+  /* Gray 3 */
+  
+  color: #828282;
+}
+#dash-card #card-body .card3{
+background: #FFFFFF !important;
+border: 1px solid #D6E4FF !important;
+border-radius: 10px !important;
+}
+#dash-card #card-body .card2{
+  background: #FFFFFF;
+  border: 1px solid #EFDBFF;
+  border-radius: 10px;
+}
+#dash-card #card-body .card1{
+  background: #FFFFFF;
+  border: 1px solid #FFE7BA;
+  border-radius: 10px;
+}
+#basic-addon1{
+  background:#FFFFFF !important;
+  border-right: 0 !important;
+}
+.search-pages{
+  border-left: 0;
+  size: 4px !important;
+  /* width: 10px !important; */
+}
+ @media (max-width: 767px){
+  #search-form{
+    position: relative;
+    display: flex;
+    top:-15px;
+    right: 0px;
+    margin-bottom: -50px;
+
+  }
+  .side-image{
+    display: none;
+    
+  }
+  #synchronize-btn{
+    margin-bottom: -50px;
+    
+  }
+  .synchronizePage-btn .btn{
+    margin-left: 38% !important;
+  }
+}
+.synchronizePage-img{
+width: 70%;
+height: 70%;
+left: 494px;
+top: 541px;
+margin-left: 18%;
+margin-top: 5%;
+}
+.synchronizePage-text{
+  margin-bottom: 10px;
+}
+.synchronizePage-text p{
+  text-align: center;
+  margin-top: 2%;
+  width: 60%;
+  height: 63px;
+  left: 621px;
+  top: 973px;
+  margin-left: 22%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  
+  
+}
+.synchronizePage-btn .btn{
+  text-align: center;
+  margin-top: 0% !important;
+  margin-left: 45% !important;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+}
+.fan-card{
+  height: 132px;
+/* left: 279px;
+top: 485px; */
+background: #FFFFFF;
+border: 1px solid #D6E4FF;
+box-shadow: 24px 18px 69px rgba(60, 52, 52, 0.07);
+border-radius: 10px;
+}
+.fan-card .card-inner .card-text{
+  margin-left: 10px;
+  padding: 2px;
+}
+.fan-card .card-inner .card-text h5{
+  width: 193px;
+height: 32px;
+left: 956px;
+top: 503px;
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 32px;
+display: flex;
+align-items: center;
+color: #262626;
+}
+.fan-card .card-inner .card-text p{
+  left: 66.6%;
+right: 11.67%;
+top: 32.21%;
+bottom: 64.13%;
+padding-right: 10px;
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 11.6px;
+line-height: 20px;
+color: #8C8C8C;
+}
+.fan-card .card-inner .btn{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 10px 25px;
+gap: 4px;
+width: 70px;
+height: 34px;
+background: #487DF2;
+border-radius: 4px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.fan-card .card-inner .btn p{
+  width: 34px;
+height: 14px;
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+/* .search-box {
+  background: #efefef;
+  width: 240px;
+  height: 40px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+}
+.search-box img {
+  width: 18px;
+}
+.search-box input {
+  width: 100%;
+  background: transparent;
+  padding: 10px;
+  outline: none;
+  border: 0;
+} */
